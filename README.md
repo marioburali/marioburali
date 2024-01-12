@@ -2,7 +2,7 @@
 
 Meu nome é Mario Burali e sou um ex advogado com passagem no marketing e que se rendeu à paixão pela tecnologia.
 
-Estou começando minha carreira, comecei estudando com conteúdos gratuitos na internet, atualmente estou cursando na Trybe! 
+Estou começando minha carreira, comecei estudando com conteúdos gratuitos na internet, atualmente estou cursando na Trybe! <br>
 Estou animado em compartilhar todos os projetos aqui, desde o primeiro.
 Chega mais pra acompanhar a evolução 🌱 e boraaaa! 🚀🚀🚀
 
