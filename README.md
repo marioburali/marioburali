@@ -1,10 +1,14 @@
 ## Ciao! Seja bem vindo! 🤩🤌🏼
 
-Meu nome é Mario Burali e sou um ex advogado com passagem no marketing e que se rendeu à paixão pela tecnologia.
-
+Meu nome é Mario Burali e sou um ex advogado com passagem no marketing e que se rendeu à paixão pela tecnologia. <br>
+<br>
 Estou começando minha carreira, comecei estudando com conteúdos gratuitos na internet, atualmente estou cursando na Trybe! <br>
 Estou animado em compartilhar todos os projetos aqui, desde o primeiro.
-Chega mais pra acompanhar a evolução 🌱 e boraaaa! 🚀🚀🚀
+Chega mais pra acompanhar a evolução 🌱 e boraaaa! 🚀🚀🚀 <br>
+
+<img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" alt: matrix/><img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" alt: matrix/><img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" alt: matrix/><img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" alt: matrix/>
+
+
 
 <br>
 
