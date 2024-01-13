@@ -6,7 +6,9 @@ Estou começando minha carreira, comecei estudando com conteúdos gratuitos na i
 Estou animado em compartilhar todos os projetos aqui, desde o primeiro.
 Chega mais pra acompanhar a evolução 🌱 e boraaaa! 🚀🚀🚀 <br>
 
+<div align="center">
 <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" alt: matrix/><img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" alt: matrix/><img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" alt: matrix/>
+</div>
 
 
 
