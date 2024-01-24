@@ -1,9 +1,9 @@
-## Ciao! Seja bem vindo! 🤩🤌🏼
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=27&pause=1000&color=42C920&random=false&width=580&lines=console.log('Ciao!+Seja+bem+vindo!'))](https://git.io/typing-svg)
 
 Meu nome é Mario Burali e sou um ex advogado com passagem no marketing e que se rendeu à paixão pela tecnologia. <br>
 <br>
-Estou começando minha carreira, comecei estudando com conteúdos gratuitos na internet, atualmente estou cursando na Trybe! <br>
-Estou animado em compartilhar todos os projetos aqui, desde o primeiro.
+Estou começando minha carreira, comecei estudando com conteúdos gratuitos na internet, atualmente estou cursando na Trybe. <br>
+Formado em Direito, advogado por alguns anos e com passagem no Marketing, agora em uma nova direção! <br>
 Chega mais pra acompanhar a evolução 🌱 e boraaaa! 🚀🚀🚀 <br>
 
 <div align="center">
