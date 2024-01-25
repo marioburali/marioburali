@@ -1,6 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=27&pause=1000&color=42C920&random=false&width=580&lines=console.log('Ciao!+Seja+bem+vindo!'))
 
-Meu nome é Mario Burali e estou começando minha carreira na tecnologia. Comecei estudando conteúdos gratuitos na internet e atualmente estou cursando na Trybe. <br>
+Meu nome é **Mario Burali** e estou começando minha carreira na tecnologia. <br>
+Comecei estudando conteúdos gratuitos na internet e atualmente estou cursando na Trybe. <br>
 Formado em Direito, advogado por alguns anos e com passagem no Marketing, agora em uma nova direção! <br>
 Chega mais pra acompanhar a evolução 🌱 e boraaaa! 🚀🚀🚀 <br>
 
