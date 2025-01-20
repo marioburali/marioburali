@@ -3,8 +3,8 @@
   <dd>
       <dl>
         <dd>
-          Meu nome é **Mario Burali** e estou começando minha carreira na tecnologia. <br>
-          Comecei estudando conteúdos gratuitos na internet e fiz o curso **Full Stack Web Development** na Trybe. <br>
+          Meu nome é <b>Mario Burali</b> e estou começando minha carreira na tecnologia. <br>
+          Comecei estudando conteúdos gratuitos na internet e fiz o curso <b>Full Stack Web Development</b> na Trybe. <br>
           Formado em Direito, advogado por alguns anos e com passagem no Marketing, agora em uma nova direção! <br>
           Agora tendo minha primeira oportunidade no mercado tech na Igma 🌋 <br>
         </dd>
