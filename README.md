@@ -1,5 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=27&pause=1000&color=42C920&random=false&width=580&lines=console.log('Ciao!+Seja+bem+vindo!'))
-<div align="center">
+<div style="margin-left: 30px">
 Meu nome é **Mario Burali** e estou começando minha carreira na tecnologia. <br>
 Comecei estudando conteúdos gratuitos na internet e fiz o curso **Full Stack Web Development** na Trybe. <br>
 Formado em Direito, advogado por alguns anos e com passagem no Marketing, agora em uma nova direção! <br>
