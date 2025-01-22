@@ -6,7 +6,7 @@
           Meu nome é <b>Mario Burali</b> e estou começando minha carreira na tecnologia. <br>
           Comecei estudando conteúdos gratuitos na internet e fiz o curso <b>Full Stack Web Development</b> na Trybe. <br>
           Formado em Direito, advogado por alguns anos e com passagem no Marketing, agora em uma nova direção! <br>
-          Agora tendo minha primeira oportunidade no mercado tech na <b style='color:red">Igma</b> 🌋 <br>
+          Agora tendo minha primeira oportunidade no mercado tech na <b>Igma</b> 🌋 <br>
         </dd>
       </dl>
   </dd>
