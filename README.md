@@ -34,7 +34,6 @@
 # 💻 Tecnologias:
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#)
-[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](#)
 [![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)](#)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#)
@@ -44,7 +43,6 @@
 [![NodeJS](https://img.shields.io/badge/Node.js-%6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](#)
 [![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)](#)
-[![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)](#)
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=fff)](#)
 [![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=fff)](#)
@@ -55,6 +53,6 @@
 <div align="center">
   <a href="https://instagram.com/marioburali" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marioaugustoburali/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-   <a href="mailto:marioaugustoburali@gmail.com" target="_blank"><img src="https://play-lh.googleusercontent.com/D1Dz2BjPYev_oyksKXsdtAS66a_2Ql-sklpzTnwR9lqnDG_P5lAJEtfR70FudJ0XMA=s48-rw" style='width: 28px' target="_blank"></a>  
+  <a href="mailto:marioaugustoburali@gmail.com" target="_blank"><img src="https://play-lh.googleusercontent.com/D1Dz2BjPYev_oyksKXsdtAS66a_2Ql-sklpzTnwR9lqnDG_P5lAJEtfR70FudJ0XMA=s48-rw" style='width: 28px' target="_blank"></a>  
   
 </div>
