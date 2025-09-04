@@ -1,37 +1,60 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=27&pause=1000&color=42C920&random=false&width=580&lines=console.log('Ciao!+Seja+bem+vindo!'))
 # 📋 Sobre mim:
-<dl>
-  <dd>
-      <dl>
-        <dd>
-          Meu nome é <b>Mario Burali</b> e estou começando minha carreira na tecnologia. <br>
-          Comecei estudando conteúdos gratuitos na internet e fiz o curso <b>Full Stack Web Development</b> na Trybe. <br>
-          Formado em Direito, advogado por alguns anos e com passagem no Marketing, agora em uma nova direção! <br>
-          Agora tendo minha primeira oportunidade no mercado tech na <b>Igma</b> 🌋 <br>
-        </dd>
-      </dl>
-  </dd>
-</dl>
+Meu nome é **Mario Burali**, sou um **Desenvolvedor Full Stack**.<br><br>
+🎓 Formado pela **Trybe** no curso **Full Stack Web Development**.<br><br>
+📚 Também sou formado em **Direito**, atuei como advogado e tive passagem pelo **Marketing**, até encontrar minha verdadeira paixão: **Tecnologia**!<br><br>
+🚀 Hoje atuo construindo soluções que unem **boas práticas de desenvolvimento** e foco total na **resolução de problemas** e **experiência do usuário**.  
+
 <div align="center">
 <br>
 <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" alt: matrix/><img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" alt: matrix/><img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" alt: matrix/>
 </div>
 
+ ## 🎯 Áreas de Atuação  
+- Desenvolvimento **Frontend** com **JavaScript** e **TypeScript**  
+- Web e Mobile com **React** e **React Native**  
+- Integração de **APIs RESTful** e **GraphQL**  
+- Experiência com **Docker**, **Git** e **GitHub**  
+- Testes automatizados com **Cypress**  
+- QA manual detalhado e foco em qualidade  
+- Atendimento direto ao usuário, homologação e estratégia de features  
 
 
-<br>
+## 🏆 Destaques da Minha Experiência  
+- **Boas Práticas:**  
+  Desenvolvo soluções alinhadas aos **padrões de mercado**, aplicando **Clean Code** e foco em escalabilidade.  
 
-<!-- GITHUB STATUS -->
+- **Resolução de Problemas:**  
+  Sempre busco entregar soluções efetivas (mesmo que provisórias), mantendo o cliente no centro do processo.  
+
+- **Comunicação e Colaboração:**  
+  Prezo por **clareza e empatia** na comunicação com a squad, líderes e clientes — feedbacks recorrentes que valorizam meu relacionamento interpessoal.  
+
+
+## 🚀 Estudando Atualmente  
+- **OKRs** com foco em **Gestão de Produto e Squads**  
+- **QA Tester** (domínio de produto e garantia de qualidade nas entregas)  
+- **FullCycle** (especialização no ciclo completo: da arquitetura à entrega final)  
+
+
+## ⚡ Tecnologias que Amo Trabalhar  
+
+- **Frontend:** JS, TS e React
+- **Backend:** .Node e Express 
+- **Mobile:** React Native
+- **Banco de Dados:** SQL 
+- **DevOps:** Docker
+
+
+
+## 📊 GitHub Stats  
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marioburali&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioburali&layout=compact&langs_count=10&theme=gruvbox"/>
-
-  <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
 
-<br>
 
-# 💻 Tecnologias:
+# 💻 Tecnologias & Ferramentas:
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#)
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](#)
@@ -49,7 +72,7 @@
 
 
 
-# 🌐 Redes Sociais:
+## 🌐 Redes Sociais:
 <div align="center">
   <a href="https://instagram.com/marioburali" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marioaugustoburali/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
