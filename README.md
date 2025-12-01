@@ -11,7 +11,7 @@ Meu nome é **Mario Burali**, sou um **Desenvolvedor Full Stack**.<br><br>
 </div>
 
  ## 🎯 Áreas de Atuação  
-- Desenvolvimento **Frontend** com **JavaScript** e **TypeScript**  
+- Desenvolvimento **Frontend** e **Backend** com **TypeScript** e **Node.js**
 - Web e Mobile com **React** e **React Native**  
 - Integração de **APIs RESTful** e **GraphQL**  
 - Experiência com **Docker**, **Git** e **GitHub**  
