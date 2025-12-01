@@ -32,8 +32,6 @@ Meu nome é **Mario Burali**, sou um **Desenvolvedor Full Stack**.<br><br>
 
 
 ## 🚀 Estudando Atualmente  
-- **OKRs** com foco em **Gestão de Produto e Squads**  
-- **QA Tester** (domínio de produto e garantia de qualidade nas entregas)  
 - **FullCycle** (especialização no ciclo completo: da arquitetura à entrega final)  
 
 
