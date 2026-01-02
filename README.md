@@ -44,14 +44,6 @@ Meu nome é **Mario Burali**, sou um **Desenvolvedor Full Stack**.<br><br>
 - **DevOps:** Docker
 
 
-
-## 📊 GitHub Stats  
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marioburali&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioburali&layout=compact&langs_count=10&theme=gruvbox"/>
-</div>
-
-
 # 💻 Tecnologias & Ferramentas:
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#)
