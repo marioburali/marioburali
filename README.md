@@ -16,8 +16,6 @@ Meu nome é **Mario Burali**, sou um **Desenvolvedor Full Stack**.<br><br>
 - Integração de **APIs RESTful** e **GraphQL**  
 - Experiência com **Docker**, **Git** e **GitHub**  
 - Testes automatizados com **Cypress**  
-- QA manual detalhado e foco em qualidade  
-- Atendimento direto ao usuário, homologação e estratégia de features  
 
 
 ## 🏆 Destaques da Minha Experiência  
@@ -28,7 +26,7 @@ Meu nome é **Mario Burali**, sou um **Desenvolvedor Full Stack**.<br><br>
   Sempre busco entregar soluções efetivas (mesmo que provisórias), mantendo o cliente no centro do processo.  
 
 - **Comunicação e Colaboração:**  
-  Prezo por **clareza e empatia** na comunicação com a squad, líderes e clientes — feedbacks recorrentes que valorizam meu relacionamento interpessoal.  
+  Prezo por **clareza e empatia** na comunicação com a squad, líderes e clientes.  
 
 
 ## 🚀 Estudando Atualmente  
