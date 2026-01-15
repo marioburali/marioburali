@@ -30,7 +30,7 @@ Meu nome é **Mario Burali**, sou um **Desenvolvedor Full Stack**.<br><br>
 
 
 ## 🚀 Estudando Atualmente  
-- **FullCycle** (especialização no ciclo completo: da arquitetura à entrega final)  
+- **Frontend**: aprofundando em React
 
 
 ## ⚡ Tecnologias que Amo Trabalhar  
