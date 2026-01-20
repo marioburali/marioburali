@@ -1,5 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=27&pause=1000&color=42C920&random=false&width=580&lines=console.log('Ciao!+Seja+bem+vindo!'))
-# 📋 Sobre mim:
+## 📋 Sobre mim:
 Meu nome é **Mario Burali**, sou um **Desenvolvedor Full Stack**.<br><br>
 🎓 Formado pela **Trybe** no curso **Full Stack Web Development**.<br><br>
 📚 Também sou formado em **Direito**, atuei como advogado e tive passagem pelo **Marketing**, até encontrar minha verdadeira paixão: **Tecnologia**!<br><br>
@@ -30,8 +30,7 @@ Meu nome é **Mario Burali**, sou um **Desenvolvedor Full Stack**.<br><br>
 
 
 ## 🚀 Estudando Atualmente  
-- **Frontend**: aprofundando em React
-
+- **Fundamentos**: Algorítmos
 
 ## ⚡ Tecnologias que Amo Trabalhar  
 
@@ -42,7 +41,7 @@ Meu nome é **Mario Burali**, sou um **Desenvolvedor Full Stack**.<br><br>
 - **DevOps:** Docker
 
 
-# 💻 Tecnologias & Ferramentas:
+## 💻 Tecnologias & Ferramentas:
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#)
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](#)
