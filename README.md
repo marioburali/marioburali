@@ -3,7 +3,7 @@
 Meu nome é **Mario Burali**, sou um **Desenvolvedor Full Stack**.<br><br>
 🎓 Formado pela **Trybe** no curso **Full Stack Web Development**.<br><br>
 📚 Também sou formado em **Direito**, atuei como advogado e tive passagem pelo **Marketing**, até encontrar minha verdadeira paixão: **Tecnologia**!<br><br>
-🚀 Hoje atuo construindo soluções que unem **boas práticas de desenvolvimento** e foco total na **resolução de problemas** e **experiência do usuário**.  
+🚀 Hoje atuo construindo soluções que unem **boas práticas de desenvolvimento**, foco total na **resolução de problemas** e na **experiência do usuário**.  
 
 <div align="center">
 <br>
