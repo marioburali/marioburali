@@ -32,7 +32,7 @@ Meu nome é **Mario Burali**, sou um **Desenvolvedor Full Stack**.<br><br>
 ## 🚀 Estudando Atualmente  
 - **Fundamentos**: Algorítmos
 
-## ⚡ Tecnologias que Amo Trabalhar  
+## ⚡ Tecnologias que mais utilizo 
 
 - **Frontend:** JS, TS e React
 - **Backend:** Node e Express / TS
