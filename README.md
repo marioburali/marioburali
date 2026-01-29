@@ -10,6 +10,14 @@ Meu nome é **Mario Burali**, sou um **Desenvolvedor Full Stack**.<br><br>
 <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" alt: matrix/><img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" alt: matrix/><img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" alt: matrix/>
 </div>
 
+## 📊 GitHub Stats
+<div align="center">
+<p>
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marioburali&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marioburali&layout=compact&theme=gruvbox&hide_border=true"/>
+</p>
+</div>
+
  ## 🎯 Áreas de Atuação  
 - Desenvolvimento **Frontend** e **Backend** com **TypeScript** e **Node.js**
 - Web e Mobile com **React** e **React Native**  
