@@ -1,9 +1,11 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=27&pause=1000&color=42C920&random=false&width=580&lines=console.log('Ciao!+Seja+bem+vindo!'))
 ## 📋 Sobre mim:
-Meu nome é **Mario Burali**, sou um **Desenvolvedor Full Stack**.<br><br>
-🎓 Formado pela **Trybe** no curso **Full Stack Web Development**.<br><br>
-📚 Também sou formado em **Direito**, atuei como advogado e tive passagem pelo **Marketing**, até encontrar minha verdadeira paixão: **Tecnologia**!<br><br>
-🚀 Hoje atuo construindo soluções que unem **boas práticas de desenvolvimento**, foco total na **resolução de problemas** e na **experiência do usuário**.  
+
+Meu nome é **Mario Burali** e sou **Desenvolvedor Frontend**, com foco em **React e TypeScript**.<br><br>
+💻 Atuo na construção e manutenção de interfaces web, correção de bugs em produção e evolução contínua de funcionalidades, sempre com atenção à clareza do código e à experiência do usuário.
+Tenho **conhecimento de backend**, que desenvolvo por meio de projetos pessoais e estudos, trabalhando com **APIs REST, Node.js e SQL**, o que me ajuda a tomar decisões mais consistentes no frontend.<br><br>
+📚 Atualmente cursando **Análise e Desenvolvimento de Sistemas**. Também me formei na Trybe no curso de **Desenvolvimento Web Full Stack**.<br><br>
+📈 Minha trajetória profissional começou no **Direito**, onde atuei como advogado. Essa experiência contribuiu para desenvolver pensamento analítico, responsabilidade e facilidade para lidar com regras de negócio complexas, habilidades que hoje aplico diretamente no desenvolvimento de software.
 
 <div align="center">
 <br>
