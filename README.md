@@ -30,7 +30,7 @@ Meu nome é **Mario Burali**, sou um **Desenvolvedor Full Stack**.<br><br>
 
 
 ## 🚀 Estudando Atualmente  
-- **Fundamentos**: Algorítmos
+- **Nova Graduação**: Cursando Análise e Desenvolvimento de Sistemas (ADS)
 
 ## ⚡ Tecnologias que mais utilizo 
 
