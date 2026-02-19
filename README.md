@@ -3,7 +3,7 @@
 
 Meu nome é **Mario Burali** e sou **Desenvolvedor Frontend**, com foco em **React e TypeScript**.<br><br>
 💻 Atuo na construção e manutenção de interfaces web, correção de bugs em produção e evolução contínua de funcionalidades, sempre com atenção à clareza do código e à experiência do usuário.
-Tenho **conhecimento no backend**, que desenvolvo por meio de projetos pessoais, estudos e até mesmo na empresa onde trabalho, utilizando **APIs REST, Node.js e SQL**, o que me ajuda a tomar decisões mais consistentes no frontend.<br><br>
+Tenho **conhecimento no backend**, que desenvolvo por meio de projetos pessoais, estudos e até mesmo na empresa onde trabalho, utilizando **APIs REST, Node.js, Python e SQL**, o que me ajuda a tomar decisões mais consistentes no frontend.<br><br>
 📚 Atualmente cursando **Análise e Desenvolvimento de Sistemas**. Também me formei na Trybe no curso de **Desenvolvimento Web Full Stack**.<br><br>
 📈 Minha trajetória profissional começou no **Direito**, onde atuei como advogado. Essa experiência contribuiu para desenvolver pensamento analítico, responsabilidade e facilidade para lidar com regras de negócio complexas, habilidades que hoje aplico diretamente no desenvolvimento de software.
 
@@ -45,7 +45,7 @@ Tenho **conhecimento no backend**, que desenvolvo por meio de projetos pessoais,
 ## ⚡ Tecnologias que mais utilizo 
 
 - **Frontend:** JS, TS e React
-- **Backend:** Node e Express / TS (me aventurando no Python - Django)
+- **Backend:** Node e Express / TS (e me aventurando no Python - Django)
 - **Mobile:** React Native
 - **Banco de Dados:** SQL 
 - **DevOps:** Docker
