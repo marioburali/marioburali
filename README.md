@@ -45,7 +45,7 @@ Tenho **conhecimento no backend**, que desenvolvo por meio de projetos pessoais,
 ## ⚡ Tecnologias que mais utilizo 
 
 - **Frontend:** JS, TS e React
-- **Backend:** Node e Express / TS
+- **Backend:** Node e Express / TS (me aventurando no Python - Django)
 - **Mobile:** React Native
 - **Banco de Dados:** SQL 
 - **DevOps:** Docker
