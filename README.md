@@ -42,7 +42,7 @@ Tenho **conhecimento no backend**, que desenvolvo por meio de projetos pessoais,
 ## 🚀 Estudando Atualmente  
 - **Nova Graduação**: Cursando Análise e Desenvolvimento de Sistemas (ADS)
 
-## ⚡ Tecnologias que mais utilizo 
+## 💻 Tecnologias que mais utilizo 
 
 - **Frontend:** JS, TS e React
 - **Backend:** Node e Express / TS (e me aventurando no Python - Django)
@@ -51,7 +51,7 @@ Tenho **conhecimento no backend**, que desenvolvo por meio de projetos pessoais,
 - **DevOps:** Docker
 
 
-## 💻 Tecnologias & Ferramentas:
+## 🛠️ Tecnologias & Ferramentas:
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#)
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](#)
