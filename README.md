@@ -41,6 +41,7 @@ Tenho **conhecimento no backend**, que desenvolvo por meio de projetos pessoais,
 
 ## 🚀 Estudando Atualmente  
 - **Nova Graduação**: Cursando Análise e Desenvolvimento de Sistemas (ADS)
+- **Inteligência Artificial**: ferramenta cada vez mais crescente. É necessário sempre se adaptar ao mercado.
 
 ## 💻 Tecnologias que mais utilizo 
 
