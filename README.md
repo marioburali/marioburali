@@ -25,7 +25,8 @@ Tenho **conhecimento no backend**, que desenvolvo por meio de projetos pessoais,
 - Web e Mobile com **React** e **React Native**  
 - Integração de **APIs RESTful** e **GraphQL**  
 - Experiência com **Docker**, **Git** e **GitHub**  
-- Testes automatizados com **Cypress**  
+- Testes automatizados com **Cypress**
+- Experiência com ferramentas **AI** para projetos profissionais
 
 
 ## 🏆 Destaques da Minha Experiência  
