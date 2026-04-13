@@ -44,6 +44,20 @@ Tenho **conhecimento no backend**, que desenvolvo por meio de projetos pessoais,
 - **Nova Graduação**: Cursando Análise e Desenvolvimento de Sistemas (ADS)
 - **Inteligência Artificial**: ferramenta cada vez mais crescente. É necessário sempre se adaptar ao mercado.
 
+## 🗂️ Projetos em Destaque
+
+### 🏖️ [Vaktions — Sistema de Gestão de Férias e Funcionários](https://github.com/marioburali/vaktions)
+
+Sistema full stack desenvolvido para apoiar times de RH no gerenciamento de colaboradores e controle de férias, com regras de negócio baseadas na CLT.
+
+- 🖥️ **Frontend:** React, TypeScript, Material UI, Vite
+- ⚙️ **Backend:** Node.js, TypeScript, Express, Sequelize
+- 🗄️ **Banco de dados:** PostgreSQL
+- 🔐 **Autenticação:** Hash de senha e controle de acesso por perfis (RBAC)
+- 📐 **Arquitetura:** Camadas MSC (Model, Service, Controller) com ORM
+
+> **Diferencial:** regras de negócio implementadas **com base na legislação trabalhista brasileira**, aplicando conhecimento jurídico diretamente no desenvolvimento.
+
 ## 💻 Tecnologias que mais utilizo 
 
 - **Frontend:** JS, TS e React
