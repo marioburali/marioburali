@@ -1,70 +1,61 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=27&pause=1000&color=42C920&random=false&width=580&lines=console.log('Ciao!+Seja+bem+vindo!'))
-## 📋 Sobre mim:
+## 📋 Sobre mim
 
-Meu nome é **Mario Burali** e sou **Desenvolvedor Frontend**, com foco em **React e TypeScript**, porém atuando como **Full Stack** utilizando **Python / Django** e **Node.js** no Backend.<br><br>
-💻 Atuo na construção e manutenção de interfaces web, correção de bugs em produção e evolução contínua de funcionalidades, sempre com atenção à clareza do código e à experiência do usuário.
-Tenho **conhecimento no backend**, que desenvolvo por meio de projetos pessoais, estudos e até mesmo na empresa onde trabalho, utilizando **APIs REST, Node.js, Python e SQL**, o que me ajuda a tomar decisões mais consistentes no frontend.<br><br>
-📚 Atualmente cursando **Análise e Desenvolvimento de Sistemas** e me formei pela Trybe no curso de **Desenvolvimento Web Full Stack**, onde aprendi a programar.<br><br>
-📈 Minha trajetória profissional começou no **Direito**, onde atuei como advogado. Essa experiência contribuiu para desenvolver pensamento analítico, responsabilidade e facilidade para lidar com regras de negócio complexas, habilidades que hoje aplico diretamente no desenvolvimento de software.
+Meu nome é **Mario Burali** e sou **Desenvolvedor Frontend**, com foco em **React e TypeScript**, com atuação também em integrações e demandas backend utilizando **Node.js**, **Python/Django**, **REST APIs**, **GraphQL** e **SQL**.
 
-<div align="center">
-<br>
-<img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" alt: matrix/><img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" alt: matrix/><img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" alt: matrix/>
-</div>
+Trabalho com aplicações em produção, atuando na construção e manutenção de interfaces web, correção de bugs, implementação de melhorias e participação em entregas de ponta a ponta. Minha formação em Direito também contribui para uma visão analítica e atenção a regras de negócio.
 
-## 📊 GitHub Stats
-<div align="center">
-<p>
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marioburali&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marioburali&layout=compact&theme=gruvbox&hide_border=true"/>
-</p>
-</div>
-
- ## 🎯 Áreas de Atuação  
-- Desenvolvimento **Frontend** e **Backend** com **TypeScript** e **Node.js**
-- Web e Mobile com **React** e **React Native**  
-- Integração de **APIs RESTful** e **GraphQL**  
-- Experiência com **Docker**, **Git** e **GitHub**  
-- Testes automatizados com **Cypress**
-- Experiência com ferramentas **AI** para projetos profissionais
+Atualmente curso **Análise e Desenvolvimento de Sistemas** e sigo aprofundando meus conhecimentos em frontend, backend e boas práticas de engenharia de software.
 
 
-## 🏆 Destaques da Minha Experiência  
-- **Boas Práticas:**  
-  Desenvolvo soluções alinhadas aos **padrões de mercado**, aplicando **Clean Code** e foco em escalabilidade.  
-
-- **Resolução de Problemas:**  
-  Sempre busco entregar soluções efetivas, mantendo o cliente no centro do processo.  
-
-- **Comunicação e Colaboração:**  
-  Prezo por **clareza e empatia** na comunicação com a squad, líderes e clientes.  
-
-
-## 🚀 Estudando Atualmente  
-- **Nova Graduação**: Cursando Análise e Desenvolvimento de Sistemas (ADS)
-- **Inteligência Artificial**: ferramenta cada vez mais crescente. É necessário sempre se adaptar ao mercado.
-
-## 🗂️ Projetos em Destaque
+## 🚀 Projeto em destaque
 
 ### 🏖️ [Vaktions — Sistema de Gestão de Férias e Funcionários](https://github.com/marioburali/vaktions)
 
-Sistema full stack desenvolvido para apoiar times de RH no gerenciamento de colaboradores e controle de férias, com regras de negócio baseadas na CLT.
+Sistema full stack desenvolvido para apoiar times de RH no gerenciamento de colaboradores e controle de férias.
 
-- 🖥️ **Frontend:** React, TypeScript, Material UI, Vite
-- ⚙️ **Backend:** Node.js, TypeScript, Express, Sequelize
-- 🗄️ **Banco de dados:** PostgreSQL
-- 🔐 **Autenticação:** Hash de senha e controle de acesso por perfis (RBAC)
-- 📐 **Arquitetura:** Camadas MSC (Model, Service, Controller) com ORM
+**Stack:**
+- Frontend: React, TypeScript, Material UI, Vite  
+- Backend: Node.js, TypeScript, Express, Sequelize  
+- Banco de dados: PostgreSQL  
 
-> **Diferencial:** regras de negócio implementadas **com base na legislação trabalhista brasileira**, aplicando conhecimento jurídico diretamente no desenvolvimento.
+**Destaques:**
+- Implementação de regras de negócio baseadas na **CLT**
+- Arquitetura em camadas (MSC: Model, Service, Controller com ORM)
+- Autenticação com controle de acesso por perfis (RBAC)
+- Integração entre frontend e backend com foco em organização e escalabilidade
 
-## 💻 Tecnologias que mais utilizo 
 
-- **Frontend:** JS, TS e React
-- **Backend:** Node e Express / TS (e me aventurando no Python - Django)
-- **Mobile:** React Native
-- **Banco de Dados:** SQL 
-- **DevOps:** Docker
+## 🧠 Tecnologias principais
+
+**Frontend**
+- React
+- TypeScript
+- JavaScript
+- React Native
+
+**Backend**
+- Node.js (Express)
+- Python (Django)
+- APIs REST e GraphQL
+
+**Banco de dados**
+- PostgreSQL
+- MySQL
+
+**Outros**
+- Git e GitHub
+- Docker
+- Cypress
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marioburali&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marioburali&layout=compact&theme=gruvbox&hide_border=true"/>
+</div>
+
 
 
 ## 🛠️ Tecnologias & Ferramentas:
