@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=27&pause=1000&color=42C920&random=false&width=580&lines=console.log('Ciao!+Seja+bem+vindo!'))
 ## 📋 Sobre mim
 
-Meu nome é **Mario Burali** e sou **Desenvolvedor Frontend**, com foco em **React e TypeScript**, com atuação também em integrações e demandas backend utilizando **Node.js**, **Python/Django**, **REST APIs**, **GraphQL** e **SQL**.
+Meu nome é **Mario Burali** e sou **Desenvolvedor Full Stack**, com foco em **Frontend (React e TypeScript)**, com atuação também em integrações e demandas backend utilizando **Node.js**, **Python/Django**, **REST APIs**, **GraphQL** e **SQL**.
 
 Trabalho com aplicações em produção, atuando na construção e manutenção de interfaces web, correção de bugs, implementação de melhorias e participação em entregas de ponta a ponta. Minha formação em Direito também contribui para uma visão analítica e atenção a regras de negócio.
 
