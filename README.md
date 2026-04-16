@@ -25,6 +25,11 @@ Sistema full stack desenvolvido para apoiar times de RH no gerenciamento de cola
 - Autenticação com controle de acesso por perfis (RBAC)
 - Integração entre frontend e backend com foco em organização e escalabilidade
 
+**O que está por vir:**
+- Testes: 100% coverage
+- CI/CD: Pipelines para PR e Deploy automatizados
+- Deploy
+
 
 ## 🧠 Tecnologias principais
 
