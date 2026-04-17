@@ -35,12 +35,13 @@ Sistema full stack desenvolvido para apoiar times de RH no gerenciamento de cola
 
 **Frontend**
 - React
+- Next.js
 - TypeScript
 - JavaScript
 - React Native
 
 **Backend**
-- Node.js (Express)
+- Node.js (Express, NestJS)
 - Python (Django)
 - APIs REST e GraphQL
 
@@ -48,10 +49,13 @@ Sistema full stack desenvolvido para apoiar times de RH no gerenciamento de cola
 - PostgreSQL
 - MySQL
 
+**Testes**
+- Jest
+- Cypress
+
 **Outros**
 - Git e GitHub
 - Docker
-- Cypress
 
 
 ## 📊 GitHub Stats
