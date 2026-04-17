@@ -3,7 +3,7 @@
 
 Meu nome é **Mario Burali** e sou **Desenvolvedor Full Stack**, com foco em **Frontend (React e TypeScript)**, com atuação também em integrações e demandas backend utilizando **Node.js**, **Python/Django**, **REST APIs**, **GraphQL** e **SQL**. Tenho também atuado em infraestrutura (CI/CD), criando e evoluindo pipelines para Pull Requests e deploys automatizados.
 
-Trabalho com aplicações em produção, atuando na construção e manutenção de interfaces web, correção de bugs, implementação de melhorias e participação em entregas de ponta a ponta. Minha formação em Direito também contribui para uma visão analítica e atenção a regras de negócio.
+Trabalho com aplicações em produção, atuando na construção e manutenção de interfaces web, correção de bugs, implementação de melhorias e participação em entregas de ponta a ponta. Experiência com metodologias ágeis como Scrum e Kanban, participando de cerimônias, planejamento e entregas iterativas. Minha formação em Direito também contribui para uma visão analítica e atenção a regras de negócio.
 
 Atualmente curso **Análise e Desenvolvimento de Sistemas** e sigo aprofundando meus conhecimentos em frontend, backend e boas práticas de engenharia de software.
 
@@ -67,7 +67,7 @@ Sistema full stack desenvolvido para apoiar times de RH no gerenciamento de cola
 
 
 
-## 🛠️ Tecnologias & Ferramentas:
+## 🛠️ Tecnologias & Ferramentas já utilizadas:
 
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#)
@@ -89,6 +89,7 @@ Sistema full stack desenvolvido para apoiar times de RH no gerenciamento de cola
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)](#)
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](#)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
 [![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)](#)
