@@ -3,7 +3,7 @@
 
 Meu nome é **Mario Burali** e sou **Desenvolvedor Full Stack**, com foco em **Frontend (React e TypeScript)**, com atuação também em integrações e demandas backend utilizando **Node.js**, **Python/Django**, **REST APIs**, **GraphQL** e **SQL**. Tenho também atuado em infraestrutura (CI/CD), criando e evoluindo pipelines para Pull Requests e deploys automatizados.
 
-Trabalho com aplicações em produção, atuando na construção e manutenção de interfaces web, correção de bugs, implementação de melhorias e participação em entregas de ponta a ponta. Experiência com metodologias ágeis como Scrum e Kanban, participando de cerimônias, planejamento e entregas iterativas. Minha formação em Direito também contribui para uma visão analítica e atenção a regras de negócio.
+Trabalho com aplicações em produção do Arena Mercado Livre Pacaembu, Zag Finanças e Itaú Editais, atuando na construção e manutenção de interfaces web, correção de bugs, implementação de melhorias e participação em entregas de ponta a ponta. Experiência com metodologias ágeis como Scrum e Kanban, participando de cerimônias, planejamento e entregas iterativas. Minha formação em Direito também contribui para uma visão analítica e atenção a regras de negócio.
 
 Atualmente curso **Análise e Desenvolvimento de Sistemas** e sigo aprofundando meus conhecimentos em frontend, backend e boas práticas de engenharia de software.
 
