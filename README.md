@@ -5,7 +5,7 @@ Meu nome é **Mario Burali** e sou **Desenvolvedor Full Stack**, com foco em **F
 
 Trabalho com aplicações em produção da Arena Mercado Livre Pacaembu, Zag Finanças e Itaú Editais, atuando na construção e manutenção de interfaces web, correção de bugs, implementação de melhorias e participação em entregas de ponta a ponta. Experiência com metodologias ágeis como Scrum e Kanban, participando de cerimônias, planejamento e entregas iterativas. Minha formação em Direito também contribui para uma visão analítica e atenção a regras de negócio.
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas** e sigo aprofundando meus conhecimentos em frontend, backend e boas práticas de engenharia de software.
+Atualmente curso **Análise e Desenvolvimento de Sistemas** e sigo aprofundando meus conhecimentos em frontend, backend, redes, cloude, IAs e boas práticas de engenharia de software.
 
 
 ## 🚀 Projeto em destaque
@@ -17,7 +17,7 @@ Sistema full stack desenvolvido para apoiar times de RH no gerenciamento de cola
 **Stack:**
 - Frontend: React, TypeScript, Material UI, Vite  
 - Backend: Node.js, TypeScript, Express, Sequelize  
-- Banco de dados: PostgreSQL  
+- Banco de dados: PostgreSQL
 
 **Destaques:**
 - Implementação de regras de negócio baseadas na **CLT**
