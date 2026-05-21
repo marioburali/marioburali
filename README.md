@@ -8,7 +8,7 @@ Trabalho com aplicações em produção da Arena Mercado Livre Pacaembu, Zag Fin
 Atualmente cursando **Análise e Desenvolvimento de Sistemas** e sigo aprofundando meus conhecimentos em frontend, backend, redes, cloud, IAs e boas práticas de engenharia de software.
 
 
-## 🚀 Projeto em destaque
+## 🚀 Projeto em destaque - Em desenvolvimento
 
 ### 🏖️ [Vaktions — Sistema de Gestão de Férias e Funcionários](https://github.com/marioburali/vaktions)
 
