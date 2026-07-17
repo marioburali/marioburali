@@ -29,7 +29,7 @@ Sistema full stack desenvolvido para apoiar times de RH no gerenciamento de cola
 - Frontend: Refino de UI e UX, SEO, Acessibilidade e HTML semântico
 - Testes: 100% coverage
 - CI/CD: Pipelines para PR e Deploy automatizados
-- Deploy em produção para demonstração
+- Deploy em produção para demonstração do sistema
 
 
 ## 🧠 Tecnologias principais
