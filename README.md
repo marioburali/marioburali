@@ -3,7 +3,7 @@
 
 Meu nome é **Mario Burali** e sou **Desenvolvedor Full Stack**.
 
-Trabalho com aplicações em produção em uma Administradora de Condomínios e também já trabalhei na criação e manutenção dos projetos da Arena Mercado Livre Pacaembu, Zag Finanças e Itaú Editais, atuando na construção e manutenção de interfaces web, correção de bugs, implementação de melhorias e participação em entregas de ponta a ponta. Experiência com metodologias ágeis como Scrum e Kanban, participando de cerimônias, planejamento e entregas iterativas. Também possuo formação em Direito o que contribui para uma visão analítica e atenção a regras de negócio.
+Trabalho com aplicações em produção em uma Administradora de Condomínios e também já trabalhei na criação e manutenção dos projetos da Arena Mercado Livre Pacaembu, Zag Finanças e Itaú Editais, atuando na construção e manutenção de interfaces web, correção de bugs, implementação de melhorias e participação em entregas de ponta a ponta. Experiência com metodologias ágeis como Scrum e Kanban, participando de cerimônias, planejamento e entregas iterativas. Também possuo formação em Direito o que me ajudou a desenvolver visão analítica e atenção a regras de negócio.
 
 Atualmente cursando **Análise e Desenvolvimento de Sistemas** e sigo aprofundando meus conhecimentos em frontend, backend, redes, cloud, IAs e boas práticas de engenharia de software.
 
