@@ -7,7 +7,7 @@ Trabalho com aplicações em produção em uma Administradora de Condomínios e 
 Atualmente cursando **Análise e Desenvolvimento de Sistemas** e sigo aprofundando meus conhecimentos em frontend, backend, redes, cloud, IAs e boas práticas de engenharia de software.
 
 
-## 🚀 Projeto em destaque - Em desenvolvimento
+## 🚀 Um projeto em destaque - Em desenvolvimento
 
 ### 🏖️ [Vaktions — Sistema de Gestão de Férias e Funcionários](https://github.com/marioburali/vaktions)
 
