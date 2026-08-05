@@ -14,7 +14,7 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas** e sigo aprofundan
 
 ### 🏖️ [Vaktions — Sistema de Gestão de Férias e Funcionários](https://github.com/marioburali/vaktions)
 
-Sistema full stack desenvolvido para apoiar times de RH no gerenciamento de colaboradores e controle de férias.
+Sistema full stack desenvolvido para apoiar times de RH no gerenciamento de colaboradores e controle de férias, facilitando tarefas do dia a dia.
 
 **Stack:**
 - Frontend: React, TypeScript, Material UI, Vite  
