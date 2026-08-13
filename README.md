@@ -1,5 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=27&pause=1000&color=42C920&random=false&width=580&lines=console.log('Ciao!+Seja+bem+vindo!'))
-## 📋 Sobre mim
+## 📋 Sobre mim:
 
 Meu nome é **Mario Burali** e sou **Desenvolvedor Full Stack**.
 
