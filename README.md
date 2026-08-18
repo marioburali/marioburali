@@ -63,13 +63,11 @@ Sistema full stack desenvolvido para apoiar times de RH no gerenciamento de cola
 
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marioburali&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marioburali&layout=compact&theme=gruvbox&hide_border=true"/>
+<div align=center>
+  <img height=120 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=marioburali&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
+  <img height=120 src="https://github-readme-stats-salesp07.vercel.app/api?username=marioburali&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img height=120 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=marioburali&langs_count=8&count_private=true&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
-
-
 
 ## 🛠️ Tecnologias & Ferramentas já utilizadas:
 
