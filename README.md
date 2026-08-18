@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=27&pause=1000&color=42C920&random=false&width=580&lines=console.log('Ciao!+Seja+bem+vindo!'))
-## 📋 Sobre mim:
 
+## 📋 Sobre mim:
 Meu nome é **Mario Burali** e sou **Desenvolvedor Full Stack**.
 
 Trabalho com aplicações em produção desde 2024. Atualmente atuo em uma Administradora de Condomínios e mas também já trabalhei na criação e manutenção de projetos de grande e médio porte como da Arena Mercado Livre Pacaembu, Zag Finanças e Itaú Editais, atuando na construção e manutenção de interfaces web, correção de bugs, implementação de melhorias e participação em entregas de ponta a ponta.
@@ -9,6 +9,7 @@ Experiência com metodologias ágeis como Scrum e Kanban, participando de cerim�
 Também possuo formação em Direito o que me ajudou a desenvolver visão analítica e atenção a regras de negócio.
 Atualmente cursando **Análise e Desenvolvimento de Sistemas** e sigo aprofundando meus conhecimentos em frontend, backend, redes, cloud, IAs e boas práticas de engenharia de software.
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 ## 🚀 Um projeto em destaque - Em desenvolvimento
 
