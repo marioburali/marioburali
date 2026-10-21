@@ -4,7 +4,7 @@ Sou **Mario Burali**, Desenvolvedor Full Stack com experiência profissional em 
 
 Atuo com aplicações em produção desde 2024, trabalhando no desenvolvimento e evolução de funcionalidades, integrações com APIs, regras de negócio, correção de bugs, melhorias de performance e manutenção de produtos digitais.
 
-Minha stack principal é **React, TypeScript e Node.js**, com experiência também em **Next.js, React Native, Python, REST, GraphQL, PostgreSQL e Docker**.
+Minha stack principal é **React, TypeScript e Node.js**, com experiência também em **Next.js, React Native, Python - Django, REST, GraphQL, PostgreSQL e Docker**.
 
 Já participei de diferentes etapas do ciclo de desenvolvimento, desde refinamento técnico e implementação até testes, deploy e suporte em produção, colaborando com times de produto, design, QA e backend.
 
