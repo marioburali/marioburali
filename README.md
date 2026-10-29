@@ -27,7 +27,7 @@ Aplicação full stack desenvolvida para centralizar o gerenciamento de colabora
 
 - Regras de negócio baseadas na CLT
 - API REST com Node.js e Express
-- Arquitetura em camadas utilizando MSC
+- Arquitetura em camadas utilizando MSC (Model, Service e Controller)
 - Modelagem e persistência de dados com PostgreSQL e Sequelize
 - Autenticação e controle de acesso baseado em perfis
 - Interface desenvolvida com React, TypeScript e Material UI
