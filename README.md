@@ -6,7 +6,7 @@ Atuo com aplicações em produção desde 2024, trabalhando no desenvolvimento e
 
 Minha stack principal é **React, TypeScript e Node.js**, com experiência também em **Next.js, React Native, REST, GraphQL, PostgreSQL e Docker**.
 
-Já participei de diferentes etapas do ciclo de desenvolvimento, desde refinamento técnico e implementação até testes, deploy e suporte em produção, colaborando com times de produto, design, QA e backend.
+Já participei de diferentes etapas do ciclo de desenvolvimento, desde refinamento técnico e implementação até testes, deploy e suporte em produção, colaborando com times de produto, design e QA.
 
 Atualmente curso **Análise e Desenvolvimento de Sistemas**. Também sou formado em **Direito**, experiência que contribuiu para desenvolver uma visão analítica e facilidade para compreender e transformar regras de negócio em soluções de software.
 
