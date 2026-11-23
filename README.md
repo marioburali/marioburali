@@ -55,7 +55,7 @@ Aplicação full stack desenvolvida para centralizar o gerenciamento de colabora
 `Jest` `Cypress` `Docker` `Git` `GitHub`
 
 ### Outros conhecimentos
-`Python` `Django`
+`Python` `Django` `Java`
 
 
 ## 📊 GitHub
