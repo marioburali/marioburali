@@ -16,7 +16,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas**. Também sou formado
 
 ### 🏖️ [Vaktions — Sistema de Gestão de Férias e Funcionários](https://github.com/marioburali/vaktions)
 
-Aplicação full stack desenvolvida para centralizar o gerenciamento de colaboradores e férias, transformando regras trabalhistas em fluxos e regras de negócio dentro do sistema.
+Aplicação full stack desenvolvida para centralizar e facilitar o gerenciamento de colaboradores e férias, transformando regras trabalhistas em fluxos e regras de negócio dentro do sistema.
 
 **Stack**
 
